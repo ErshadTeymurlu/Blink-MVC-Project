@@ -15,9 +15,10 @@ namespace Blink.Controllers
         }
         public async Task<IActionResult> Index()
         {
+            var items = await _db.BlogPosts.Include(el => el.Category).ToListAsync();
             HomeViewModel hvm = new HomeViewModel()
             {
-                BlogPosts = await _db.BlogPosts.Include(x => x.Category).ToListAsync()
+                BlogPosts = items.TakeLast(3).ToList()
             };
             return View(hvm);
         }

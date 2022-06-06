@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tSE4t15kXqgtqqhzNdnEfKcDU9LCJi1UwDutOkHS7TM=",
+  "Hash": "aaxF/Z0xw/A6JFeWOqEgP3HLNmESYYKV7BnF9fbWrRc=",
   "Source": "Blink",
   "BasePath": "_content/Blink",
   "Mode": "Default",
@@ -408,12 +408,12 @@
       "OriginalItemSpec": "wwwroot\\images\\blog\\blog-single.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\images\\blog\\comment1.jpg",
+      "Identity": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\images\\blog\\comment-photo.jpg",
       "SourceId": "Blink",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\",
       "BasePath": "_content/Blink",
-      "RelativePath": "images/blog/comment1.jpg",
+      "RelativePath": "images/blog/comment-photo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,24 +422,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\blog\\comment1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\images\\blog\\comment3.jpg",
-      "SourceId": "Blink",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\",
-      "BasePath": "_content/Blink",
-      "RelativePath": "images/blog/comment3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\blog\\comment3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\blog\\comment-photo.jpg"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\Blink\\wwwroot\\images\\call-action\\bg-shape.svg",
